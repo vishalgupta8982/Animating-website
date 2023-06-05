@@ -1,0 +1,37 @@
+.LandingPage {
+  background-image: url("../assets/Rectangle1.jpg");
+  height: 90vh;
+  max-width: 100vw;
+  background-repeat: no-repeat;
+  position: relative;
+  padding: 10px;
+}
+.left {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.right {
+}
+.main-txt {
+  font-size: 32px;
+  color: #1157a0;
+  font-weight: 500;
+}
+.super {
+  color: #00c3e6;
+}
+.in {
+  max-width: 400px;
+  min-width: 300px;
+  padding: 10px;
+  border-bottom: 2px solid #00c3e6;
+  border-radius: 10px;
+  box-shadow: 0px 3px 5px 0px rgb(194, 193, 193);
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.small-txt {
+  margin-top: 20px;
+  color: grey;
+  font-size: large;
+}

@@ -1,0 +1,38 @@
+.Middle{
+    background-image: url('../../assets/Rectangle2.svg');
+    height: auto;
+    width: 100vw;
+    background-repeat: no-repeat;
+    position: relative;
+     background-position: right;
+}
+h1{
+    text-align: center;
+    color: #00c3e6;
+    font-weight: 500;
+}
+span{
+    color: #1157a0;
+}
+ 
+.img{
+    height: 400px;
+}
+.data{
+    padding:10px 40px 10px 40px ;
+    border-radius: 30px;
+    width: fit-content;
+     align-self: center;
+    margin-right: 10px;
+    font-size: large;
+     
+}
+ 
+.small-head{
+    font-size: large;
+    color: #1157a0;
+}
+.content{
+    color: black;
+    font-size: 22px;
+}

@@ -1,0 +1,22 @@
+.main-head{
+    font-weight: 500;
+ color: #1157a0;
+ text-align: center;
+ 
+}
+.lower{
+    margin-top: 30px;
+}
+.small-hea{
+     color: gray;
+     text-align: center;
+     font-weight: 400;
+     font-size:3vh;
+     margin-top: 8vh;
+      
+}
+.footer{
+    color: #fff;
+    font-size: large;
+    font-weight: 500;
+}
